@@ -4,7 +4,7 @@ General license governing the use of Post and Courier digital content
 # Logo Usage Policy
 
 ## Trademark Information
-“THE POST AND COURIER,” “CHARLESTON.NET,” and “POSTANDCOURIER.COM,” trademarks of The Post and Courier. They are protected both in the United States and internationally.
+“THE POST AND COURIER,” “CHARLESTON.NET,” and “POSTANDCOURIER.COM,” are trademarks of The Post and Courier. They are protected in the United States and internationally.
 
 ## Usage
 In accordance with licensing terms, you may use the following images for attribution purposes. All use of these images must comply with the guidelines set forth in this document. For questions, please contact The Post and Courier.
