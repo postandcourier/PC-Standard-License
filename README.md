@@ -10,11 +10,11 @@ General license governing the use of Post and Courier digital content
 In accordance with licensing terms, you may use the following images for attribution purposes. All use of these images must comply with the guidelines set forth in this document. For questions, please contact The Post and Courier.
 
 ###### Black version
-![P&C Logo Black](https://github.com/postandcourier/PC-Standard-License/pclogo-black.png)
+![P&C Logo Black](https://raw.githubusercontent.com/postandcourier/PC-Standard-License/master/pclogo-black.png)
 This image is for use on light backgrounds.
 
 ###### White version
-![P&C Logo White](https://github.com/postandcourier/PC-Standard-License/pclogo-white.png)
+![P&C Logo White](https://raw.githubusercontent.com/postandcourier/PC-Standard-License/master/pclogo-white.png)
 This image is for use on dark backgrounds.
 
 #### Requirements
